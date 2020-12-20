@@ -11,7 +11,7 @@
 				<string>SSDT-EC.aml</string>
 				<key>Path</key>
 				<string>SSDT-EC.aml</string>
-				<key>Enabled</key>
+				<key>Disabled</key>
 				<true/>
 			</dict>
 		</array>
@@ -1930,7 +1930,7 @@
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
-				<data>ZW4tVVM6MA==</data>
+				<data>656e2d55533a30</data>
 				<key>run-efi-updater</key>
 				<string>No</string>
 			</dict>

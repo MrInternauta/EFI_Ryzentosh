@@ -1,4 +1,4 @@
-# OpenCore 0.6.5 EFI for AMD Ryzen Hackintosh (macOS 10.13 - 11.0.1)
+# OpenCore 0.7.0 EFI for AMD Ryzen Hackintosh (macOS 10.13 - 11.x.x)
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
